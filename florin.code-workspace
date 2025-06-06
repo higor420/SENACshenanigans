@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../aiaia"
+		},
+		{
+			"path": "../rrr"
+		},
+		{
+			"path": "../anothaone"
+		},
+		{
+			"path": "../andanotherone"
+		},
+		{
+			"path": "../anotheronee"
+		},
+		{
+			"path": "../damn"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../ex2"
+		},
+		{
+			"path": "../exercicio"
+		},
+		{
+			"path": "../mfs"
+		},
+		{
+			"path": "../nbbv"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../Nova pasta"
+		},
+		{
+			"path": "../imc"
+		},
+		{
+			"path": "../Nova pasta (2)"
+		},
+		{
+			"path": "../Nova pasta (3)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "florin"
+	}
+}
