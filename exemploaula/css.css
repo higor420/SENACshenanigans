@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(46, 165, 42);
+}
+.container-box{
+    background-color: rgb(208, 205, 255);
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+.texto{
+    color: rgb(255, 0, 0);
+}

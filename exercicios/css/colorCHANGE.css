@@ -1,0 +1,10 @@
+.butao {
+    background-color: rgb(140, 0, 255);
+    height: 80px;
+    width: 190px;
+    border-radius: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

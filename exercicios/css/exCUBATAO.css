@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+}
+
+.container .texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    height: 600px;
+}
+
+p{
+    margin: 10px;
+}
+
+.escudo img{
+    width: 50px;
+
+}
+
+.escudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;   
+}
+.hashtags {
+    color: rgb(255, 0, 0);
+}
